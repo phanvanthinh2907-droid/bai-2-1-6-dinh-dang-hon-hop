@@ -1,0 +1,15 @@
+/* Bài 2.1.6 - Định dạng hỗn hợp (langs.css) */
+body {
+  background: #EEE;
+  line-height: 1.5em;
+  font-size: 24pt;
+  font-family: "Times New Roman", serif;
+}
+
+/* Class .lang: dùng cho thẻ span bao tên ngôn ngữ */
+.lang {
+  border: 1px solid #AAA;
+  border-radius: 20pt;
+  background: #CCC;
+  padding: 10pt 5pt;
+}
